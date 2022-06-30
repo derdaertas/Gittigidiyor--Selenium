@@ -1,2 +1,2 @@
-# Gittigidiyor Testinium Selenium
- Gittigidiyor web sitesi için Selenium Maven Projesi
+# Simple Selenium project with JUNIT for gittigidiyor.com
+ 
